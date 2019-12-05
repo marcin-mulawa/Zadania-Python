@@ -52,6 +52,6 @@ def menu():
 
 def main_loop():
     m = menu()
-
+    print(m)
 
 main_loop()
